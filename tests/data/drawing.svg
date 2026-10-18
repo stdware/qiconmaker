@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="48" height="48">
+  <!-- A blue plate with a transparent margin and a white dot in the middle -->
+  <rect x="4" y="4" width="40" height="40" rx="8" fill="#3370ff"/>
+  <circle cx="24" cy="24" r="6" fill="#ffffff"/>
+</svg>
